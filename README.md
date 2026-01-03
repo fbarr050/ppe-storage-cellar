@@ -1,4 +1,4 @@
-Simple inventory management app written in Python	
+Simple inventory management PC/Mac app written in Python	
 
 
 Needed libraries:
